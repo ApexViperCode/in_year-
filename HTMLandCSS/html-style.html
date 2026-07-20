@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<mete charset="utf-8">
+<mete name="descripion" content="Age Calculator"/>
+<title>Age Calculator</title>
+<mete name="descripion" content="Age Calculator"/>
+<link rel="stylesheet" href="inyear2.css">
+<style>
+  body{
+    background-color: black;
+}
+.my-result-style{
+  color: white;
+}
+.a{
+    color : #39d353;
+}
+.o{
+  color: #39d353;
+}
+.dd{
+  color: white;
+}
+
+</style>
+
+</head>
+<body>
+
+
+<p1 align="center">
+<h1 class="a">Enter The Age</h1>
+<form action="/calculate" method="GET" style="text-align: center; margin-top: 30px;">
+<input type="number" name="day" placeholder="Day " min="1" max="31" required style="padding: 10px; width: 80px; border-radius: 5px; border: none; margin: 5px; text-align: center;">
+
+<input type="number" name="month" placeholder="Month " min="1" max="12" required style="padding: 10px; width: 100px; border-radius: 5px; border: none; margin: 5px; text-align: center;">
+
+<input type="number" name="year" placeholder="Year " min="1900" max="2026" required style="padding: 10px; width: 100px; border-radius: 5px; border: none; margin: 5px; text-align: center;">
+<br><br>
+<button type="submit" style="background-color: #39d353; color: black; font-weight: bold; border: none; padding: 12px 30px; font-size: 16px; border-radius: 5px; cursor: pointer;">
+  Calculate your Age
+</button>
+</form>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
+
+<h1 class="o">The Age is:</h1>
+<div class="my-result-style">
+<p>The Years:{{YEARS}}</p>
+<p>The Month:{{MONTHS}}</p>
+<p>The Days:{{DAYS}}</p>
+</div>
+<dr></dr>
+
+<h1 class="dd" style="color:  #39d353; " >Can you tell us if you were old or young</h1>
+<form>
+<p align="center">
+<input type="tel" placeholder="Answer" style="background-color: white; color: black; padding: 10px; width: 100px;"><br>
+</p>
+
+ <button type="submit" style="background-color: #39d353; color: black; font-weight: bold; border: none; padding: 12px 30px; font-size: 16px; border-radius: 5px; cursor: pointer;">Click Here</button>
+</form>
+
+</p1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" alt="colored-line" />
+</body>
+</html>
