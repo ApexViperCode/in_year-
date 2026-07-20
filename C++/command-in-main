@@ -1,0 +1,10 @@
+Put this code in C++, run it, and then put
+/* اسم الحيساب *//*File name*//*Instead of "in_yerr"​*/
+("g++ in_yerr.cpp -o in_yerr.exe -lws2_32")
+into the run output. Press Enter, then press this, then copy this code 
+/* اسم الحيساب *//*File name*//*Instead of "in_yerr"​*/
+("./in_yerr.exe")
+and paste it in the Main. Then press Enter. Then go to any browser you
+have—Google Chrome, Edge, Brave, any browser you have—and put
+​("http://localhost:8080")
+It will open the website for you.​in the search bar. Press Enter.
