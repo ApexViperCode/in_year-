@@ -4,11 +4,13 @@
 ​High Precision: Accurately calculates your age broken down into years, months, and days.
 ​Sleek Interface: Clean, user-friendly design for an intuitive experience.
 ​Fast Performance: Reliable computation powered by C++.
+
 ​🛠️ Built With
 ​C++: Handles backend processing and calculation logic.
 ​HTML5: Structures the user interface and input fields.
 ​CSS3: Styles the application with a clean, modern look.
-​ How It Works
+
+​How It Works
 ​Input your birth details (day, month, and year) into the designated fields.
 ​The application computes the difference between the current date and your date of birth.
 ​The exact age breakdown appears instantly on the display.
