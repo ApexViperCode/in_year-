@@ -14,21 +14,3 @@
 ​Input your birth details (day, month, and year) into the designated fields.
 ​The application computes the difference between the current date and your date of birth.
 ​The exact age breakdown appears instantly on the display.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Advanced Age Calculator project is an interactive tool that blends fast C++ algorithms for high-precision calculations with an engaging HTML5 and CSS3 web interface. Simply enter your birth date to view your exact age in years, months, and days within a sleek, user-friendly layout that balances performance and design.
