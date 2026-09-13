@@ -15,6 +15,3 @@
 ​The application computes the difference between the current date and your date of birth.
 ​The exact age breakdown appears instantly on the display.
 
-
-​
-Passionate web developer (Front/Back-End) and C++ coder. I build interactive games and projects, always striving to refine my skills and code unique solutions.
