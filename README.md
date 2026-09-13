@@ -17,3 +17,4 @@
 
 
 ​
+Passionate web developer (Front/Back-End) and C++ coder. I build interactive games and projects, always striving to refine my skills and code unique solutions.
