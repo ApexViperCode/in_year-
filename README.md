@@ -16,3 +16,40 @@
 ​The exact age breakdown appears instantly on the display.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+A modern and innovative version of Tic-Tac-Toe developed with HTML, CSS, and JavaScript. The game features advanced algorithms that ensure immediate and seamless win or draw detection, with rapid result announcements and appealing visual effects. It offers an interactive, modern user interface that runs smoothly across all devices and browsers for a fast, enjoyable gaming experience.
+
+
+
+
+
+
+
+
+
+
+​🎮 Advanced Tic-Tac-Toe Game
+​An interactive web application that re-imagines the classic Tic-Tac-Toe game with a modern touch. Built using JavaScript for precise algorithms that determine outcomes instantly, paired with an appealing and responsive design created using HTML5 and CSS3.
+​✨ Features
+​Advanced Verification Logic: Instant, seamless detection of winning combinations (horizontal, vertical, or diagonal) as well as draw states with zero latency.
+​Smooth Winner Announcement: Clear visual notifications and smooth transitions to declare the winner or end of the round immediately.
+​Modern & Appealing Design: Responsive, interactive user interface that adapts seamlessly across all devices and screen sizes.
+​Engaging Gameplay: Fluid interactions and quick key/click responses for an optimal gaming experience.
+​🛠️ Built With
+​HTML5: Structures the game board grid and interactive elements.
+​CSS3: Handles visual styling, animations, and responsive layout grids.
+​JavaScript (JS): Powers core game logic, turn management, and state check algorithms for wins and draws.
+​🚀 How to Run
+​Open the index.html file in any web browser.
+​Start playing and competing immediately!
